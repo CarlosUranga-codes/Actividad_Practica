@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/CarlosUranga-codes/tc2005B_html#readme",
+  "bugs": {
+    "url": "https://github.com/CarlosUranga-codes/tc2005B_html/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/CarlosUranga-codes/Actividad_Practica.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
